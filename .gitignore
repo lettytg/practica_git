@@ -1,0 +1,5 @@
+#Ignorar todos os ficheiros por guión baixo.
+_*.*
+
+#Exceptuar _ayuda.txt
+!_ayuda.txt
